@@ -37,12 +37,23 @@ dark mode is **required** for the theme to work.
 ## 👤 Author
 
 originally by:
+
 🐏 **sheep**
 
 * 🌐 Website: https://sheepdev.xyz
 * 🐦 Twitter: [@imsheeeep](https://twitter.com/imsheeeep)
 * 💻 GitHub: [@sheeepdev](https://github.com/sheeepdev)
-* 💬 Discord: [sheep#2428](https://discord.com/users/429303151598895106) (Friend requests disabled, DM me elsewhere and ill add you)
+* 💬 Discord: [sheep#2428](https://discord.com/users/429303151598895106) (Friend requests disabled, DM me elsewhere and ill add you)<br>
+
+and forked by me:
+
+🕴 **Abod1960**
+
+* 🌐 Website: no website yet 😅
+* 💻 GitHub: [@Abod1960](https://github.com/Abod1960)
+* 🎨 ArtStation: [Abod1960](https://www.artstation.com/abod1960)
+*  ✉ Gmail: abod1960.work@gmail.com
+*   🖼 DeviantArt: [Abod1960](https://www.deviantart.com/abod1960)
 
 ## 🤝 Contributing
 
@@ -54,8 +65,8 @@ Give a ⭐️ if you like this project!
 
 ## 📝 Note
 
-This is my **personal** theme, there may be some things that you won't like. You'll need to change that by yourself.
-Colors are changable by editing the variables in the file.
+colors are adjustable<br>
+you can edit with your own preferences
 
 ## 📩 License
 
