@@ -3,6 +3,7 @@
 
 ![](https://i.imgur.com/wTpv68D.jpeg)
 
+## ⁉ What is this
 
 This is a youtube theme based on the [Dev Theme by KDr3w](https://www.deviantart.com/kdr3w/art/Dev-825722799)<br>
 and this is originaly by [@sheeepdev](https://github.com/sheeepdev) and i changed the colors to match  [Dev Theme](https://www.deviantart.com/kdr3w/art/Dev-825722799) color pallet.
@@ -28,6 +29,12 @@ dark mode is **required** for the theme to work.
 
 
 🛡️ [SponsorBlock](https://sponsor.ajay.app/) | Blocks youtube sponsors, intros and more!
+
+〽 If you want to complete your Dev setup here is a cursor: [Dev-cursor](https://www.deviantart.com/abod1960/art/Dev-cursor-874579946).
+
+🍀 And Here is a Discord theme: [Translucence Dev Theme](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Dev).
+
+🍃 And here is a theme for One Commander App: [One-Commander-Dev-Theme](https://github.com/Abod1960/One-Commander-Dev-Theme).
 
 🖌️ [Custom Progress Bar](https://33kk.github.io/uso-archive/?style=95280) | Styles your youtube progress bar
 
@@ -55,6 +62,7 @@ and forked by me:
 * 🎨 ArtStation: [Abod1960](https://www.artstation.com/abod1960)
 *  ✉ Gmail: abod1960.work@gmail.com
 *   🖼 DeviantArt: [Abod1960](https://www.deviantart.com/abod1960)
+*   💬 Discord: [Abod1960#5514](https://discord.com/users/750369816279253083)<br>
 
 ## 🤝 Contributing
 
