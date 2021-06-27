@@ -7,7 +7,7 @@
 
 This is a youtube theme based on the [Dev Theme by KDr3w](https://www.deviantart.com/kdr3w/art/Dev-825722799)<br>
 and this is originaly by [@sheeepdev](https://github.com/sheeepdev) and i changed the colors to match  [Dev Theme](https://www.deviantart.com/kdr3w/art/Dev-825722799) color pallet.
-  ## 🛠 Installing instructions
+## 🛠 Installing instructions
   <br>
     you just need to add an extension called <a href=https://add0n.com/stylus.html>stylus</a> on:
     <br>
